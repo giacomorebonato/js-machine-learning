@@ -7,4 +7,7 @@ It's a handy, and not overly-fancy tool for understanding, changing, and playing
 regression.js is a javascript library containing a collection of least squares fitting methods for finding a trend in a set of data. It currently contains methods for linear, exponential, logarithmic, power and polynomial trends.
 
 ###[simple-statistics](http://simplestatistics.org/docs/)
-A JavaScript implementation of descriptive, regression, and inference statistics.
+A JavaScript implementation of descriptive, regression, and inference statistics.  
+
+###[ava](https://github.com/ava-ia/core)  
+Agnostic virtual assistant
