@@ -1,4 +1,7 @@
-#Machine learning JavaScript libraries and useful tools
+#Machine learning JavaScript libraries and useful tools  
+
+###[convnetJS](http://cs.stanford.edu/people/karpathy/convnetjs/)  
+Deep learning in the browser
 
 ###[nlp_compromise](https://github.com/nlp-compromise/nlp_compromise)
 It's a handy, and not overly-fancy tool for understanding, changing, and playing with english.
